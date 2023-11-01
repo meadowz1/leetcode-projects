@@ -12,7 +12,7 @@ It doesn't take long but it could be a lot more efficient in the timing.
 Takes around 61ms to complete the testing cases.
 
 # Code
-```
+```py
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         for i in range(len(nums) + 1):
