@@ -1,15 +1,15 @@
 # Intuition
 <!-- Describe your first thoughts on how to solve this problem. -->
+My original thought process was to use loops, but later I learned
+a solution using a dictionary approach and enumerate(). 
 
 # Approach
-<!-- Describe your approach to solving the problem. -->
+I used two for loops and brute forced my way into the solution.
 
 # Complexity
 - Time complexity:
-<!-- Add your time complexity here, e.g. $$O(n)$$ -->
-
-- Space complexity:
-<!-- Add your space complexity here, e.g. $$O(n)$$ -->
+It doesn't take long but it could be a lot more efficient in the timing.
+Takes around 61ms to complete the testing cases.
 
 # Code
 ```
